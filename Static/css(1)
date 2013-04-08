@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Arapey';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Arapey Italic'), local('Arapey-Italic'), url(http://themes.googleusercontent.com/static/fonts/arapey/v2/YQbRo6SDRtnzyJToW4DvynYhjbSpvc47ee6xR_80Hnw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arvo'), url(http://themes.googleusercontent.com/static/fonts/arvo/v5/BM-nqL-L5PgjKPDNaleWB_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Josefin Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Josefin Slab'), local('JosefinSlab'), url(http://themes.googleusercontent.com/static/fonts/josefinslab/v3/46aYWdgz-1oFX11flmyEfaRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Josefin Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Josefin Slab Bold'), local('JosefinSlab-Bold'), url(http://themes.googleusercontent.com/static/fonts/josefinslab/v3/NbE6ykYuM2IyEwxQxOIi2BAPw1J91axKNXP_-QX9CC8.woff) format('woff');
+}
+@font-face {
+  font-family: 'Josefin Slab';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Josefin Slab Italic'), local('JosefinSlab-Italic'), url(http://themes.googleusercontent.com/static/fonts/josefinslab/v3/etsUjZYO8lTLU85lDhZwUr52ooqJRs02xO3mONBoqeI.woff) format('woff');
+}
+@font-face {
+  font-family: 'Josefin Slab';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Josefin Slab Bold Italic'), local('JosefinSlab-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/josefinslab/v3/af9sBoKGPbGO0r21xJuly7z7bF_NE717IFsea40dLmU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/qdgUG4U09HnJwhYI-uK18wLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/RYyZNoeFgb0l7W3Vu1aSWOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/HkF_qI1x_noxlxhrhMQYELO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Quando';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quando-Regular'), url(http://themes.googleusercontent.com/static/fonts/quando/v1/nL5ILcfzvkW4lZ3kFL4zvOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
+@font-face {
+  font-family: 'Trocchi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Trocchi'), url(http://themes.googleusercontent.com/static/fonts/trocchi/v1/6rHpY9HaNI3x4QJ0XRikngLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
